@@ -1,1 +1,32 @@
-bora
+# 🌐 Portfólio Pessoal
+
+Este é meu **site de portfólio** criado com **HTML, CSS e JavaScript** e publicado no **GitHub Pages**.  
+Aqui compartilho meus projetos de programação, performances musicais e formas de contato. 🚀  
+
+🔗 **Acesse o site online:** [Clique aqui](https://tertulabtr.github.io/portfolio-site)
+
+---
+
+## 📌 Sobre o projeto
+- Landing page responsiva
+- Seções: **Sobre mim**, **Projetos**, **Contato**
+- Menu mobile com botão "hamburger"
+- Layout moderno com CSS Grid e Flexbox
+- Hospedagem gratuita no **GitHub Pages**
+
+---
+
+## 🖼️ Preview
+![Screenshot do site](https://via.placeholder.com/800x400.png?text=Preview+do+Portfolio)
+
+---
+
+## 🚀 Tecnologias usadas
+- **HTML5**
+- **CSS3 (Flexbox + Grid)**
+- **JavaScript**
+- **GitHub Pages** (deploy)
+
+---
+
+## 📂 Estrutura de pastas
